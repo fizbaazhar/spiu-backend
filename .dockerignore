@@ -1,0 +1,44 @@
+# Git files
+.git
+.gitignore
+
+# Python cache
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documentation
+docs/
+
+# Test files
+tests/
+test_*
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Archive files
+*.zip
+*.tar.gz
+
+# Note: .env file is NOT listed here, so it will be included
